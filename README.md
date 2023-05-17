@@ -12,3 +12,4 @@ The project involves creating a dashboard (report page) based on the supplied da
 	Configure for auto refresh.
 	Create a dashboard based on the published report in Power BI services.
 
+# SQL Project - Student Database Management
